@@ -1,6 +1,6 @@
 # Advanced-Task-Management-Application
-#INSTRUCTIONS ON HOW TO SET UP THE PROJECT TO RUN LOCALLY IN PC
-    i. The Project developed on ubuntu 22.04 os. For Laravel compatibility I recommend to run on machine with linux and php with version 8.1 and above.
+#INSTRUCTIONS ON HOW TO SET UP THE PROJECT TO RUN LOCALLY ON PC
+    i. The Project developed on ubuntu 22.04 os. For Laravel compatibility it can run on different Operating system with php installed for version 8.1 and above.
     ii. For windows you can install php,git,composer. The navigate to git or command prompt for windows and terminal for linux users to run the following commands.
     iii. Extract the downloaded folder from github, navigate to the root directory of the project . Run “composer install” to install all php dependencies of the project
     iv. create a copy of .env example and rename it .env and run “php artisan key:generate” inside the project root directory.
